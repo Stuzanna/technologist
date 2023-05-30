@@ -1,0 +1,1 @@
+The getting-started tutorial is the Docker tutorial; https://docs.docker.com/get-started/
